@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   baseText: {
-    fontWeight: "bold", fontSize: "25"
+    fontWeight: "bold", fontSize: 25
   },
 
 
