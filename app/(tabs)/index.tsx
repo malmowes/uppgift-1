@@ -39,7 +39,7 @@ export default function HomeScreen() {
       <View style={{
         backgroundColor: "orange", height: 50, justifyContent: "center",
         alignItems: 'flex-end'
-      }}><Text style= {styles.baseText}>ORANGE</Text></View>
+      }}><Text style= {styles.baseText}>ORANGEs</Text></View>
 
     </View>
 
